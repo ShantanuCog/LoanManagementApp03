@@ -28,8 +28,8 @@ namespace LoanManagement.API.Data
                     Id = adminId,
                     Name = "Admin User",
                     Email = "admin@loanmanagement.com",
-                    // Using BCrypt to hash the password "SafePassword123"
-                    Password = BCrypt.Net.BCrypt.HashPassword("SafePassword123"),
+                    // Using BCrypt to hash the password "Admin@123"
+                    Password = BCrypt.Net.BCrypt.HashPassword("Admin@123"),
                     Role = UserRole.Admin
                 }
             );
