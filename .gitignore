@@ -1,8 +1,7 @@
 # DotNet
-DotNet/LoanService/obj/
-DotNet/LoanService/bin/
-DotNet/LoanService/.vs/
-DotNet/LoanService/
+DotNet/LoanManagement.API/obj/
+DotNet/LoanManagement.API/bin/
+DotNet/LoanManagement.API/.vs/
 
 # NodeJS
 NodeJS/loan-service/node_modules/
