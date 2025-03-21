@@ -1,0 +1,8 @@
+# DotNet
+DotNet/LoanService/obj/
+DotNet/LoanService/bin/
+DotNet/LoanService/.vs/
+DotNet/LoanService/
+
+# NodeJS
+NodeJS/loan-service/node_modules/
