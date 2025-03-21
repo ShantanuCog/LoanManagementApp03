@@ -56,10 +56,10 @@ namespace LoanManagement.API.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("5aab83f7-ae58-4014-8560-acbc9c418a35"),
+                            Id = new Guid("d3b8f8c1-4f2e-4d3b-8f8c-14f2e4d3b8f8"),
                             Email = "admin@loanmanagement.com",
                             Name = "Admin User",
-                            Password = "$2a$11$i0cyvXi72Ic1JL/MWKc04eQ/g4CNRH6Z6g48K1yrdDikzDUcLe5GK",
+                            Password = "Admin@123",
                             Role = 0
                         });
                 });
